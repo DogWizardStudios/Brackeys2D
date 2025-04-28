@@ -1,6 +1,6 @@
 [gd_scene load_steps=16 format=4 uid="uid://c0tdemnethfta"]
 
-[ext_resource type="Script" uid="uid://c1tu1xa3ip1xx" path="res://scenes/game_manager.gd" id="1_gee14"]
+[ext_resource type="Script" uid="uid://c1tu1xa3ip1xx" path="res://game_manager.gd" id="1_gee14"]
 [ext_resource type="PackedScene" uid="uid://bmjyfprsfrayw" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="FontFile" uid="uid://5ldwandss5o4" path="res://assets/fonts/PixelOperator8-Bold.ttf" id="2_0tnpc"]
 [ext_resource type="Texture2D" uid="uid://dct2m8d7emvag" path="res://assets/sprites/world_tileset.png" id="2_yqjtg"]
